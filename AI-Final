@@ -1,0 +1,106 @@
+
+
+
+<html>
+<head><title>AI Final</title></head>
+  
+<body bgcolor = "#FFF2C7">
+<font color = “black">
+<style> body { font-family: 'Arial', 'Helvetica', sans-serif; } </style>
+
+<center> 
+<h1>AI Final</h1> 
+<h2>Impossible to Love</h2> 
+<p>
+ <br> 
+<img id= "myImage" 
+src="https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F88837eb4-5b64-4a65-a1ee-895f2ea61ba1%2FIMG_1183.jpg?table=block&id=2fcfa190-605e-4538-a175-a1d85b62fbd9&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2" 
+style="width:600px" height = “600”>
+<iframe id="myVideo" width="50" height="50"src="https://www.youtube.com/embed/uPoiimmRaPM" frameborder="0" allowfullscreen> 
+</iframe> 
+<p>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F2efadfcf-e29c-4795-8674-d641ea7ed54d%2FIMG_1184.jpg?table=block&id=33068968-413e-4791-a4ce-6735f667b9cd&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+1</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F0f49a8b4-c1e7-4489-bf1d-c4c6c8828a33%2FIMG_1185.jpg?table=block&id=204d83de-e935-4870-a2be-9b21af9e6095&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+2</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F8f6f198b-1007-4f60-a2f3-7ee67f86b0c8%2FIMG_1186.jpg?table=block&id=20752524-0a7a-4cf7-bbdd-152eb44646fe&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+3</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2Fd980c0b4-20c5-4b8d-8a44-ed72980248d6%2FIMG_1187.jpg?table=block&id=6458e209-4404-4b15-8ed5-3527870452ee&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+4</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F0da7d4bb-4051-4888-86d6-ed11b52cad93%2FIMG_1188.jpg?table=block&id=8dc01c9c-26e4-4f2b-952a-7efb414df1a3&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+5</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F0b50f01f-00a9-4d9f-9333-60856e91e982%2FIMG_1189.jpg?table=block&id=7cba2c01-ff21-47db-8fb4-fd4cd5a3b0e7&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+6</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2Fc36b88b6-bb1a-4365-b02a-11f292fd9a8f%2FIMG_1190.jpg?table=block&id=acea8191-b9de-47bf-8012-a662ee3f33cd&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+7</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2Fc68d4d79-13d1-45a2-9de9-63cdfbb67394%2FIMG_1191.jpg?table=block&id=280373b5-82c3-4031-ab80-7d9175a0adcc&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+8</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F2c1ecdd7-6527-42ae-bd99-3ca9251dad22%2FIMG_1192.jpg?table=block&id=966dc92e-cda8-45d5-8d92-caf68ca0987e&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+9</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F652a5281-3cf0-4a98-a81b-03c42d466444%2FIMG_1193.jpg?table=block&id=a4782613-412c-4e46-b0c7-5b046ffd3677&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+10</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F07f6db7a-02ba-45a6-a5ff-b2e34bbb59ca%2FIMG_1194.jpg?table=block&id=3df44b0a-5942-4fa5-8ab2-3b98652fa24f&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+11</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F7cf3a353-92e9-4df8-bcf1-eb5cad68ff17%2FIMG_1195.jpg?table=block&id=13af6861-1d0d-4280-8602-dea212fdf175&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=1660&userId=&cache=v2'">
+12</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2Ffa9a014f-04e0-4532-935e-203e1930c77a%2FIMG_1196.jpg?table=block&id=34e2d679-74a9-460a-bdd5-caf02207e47f&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+13</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F8741c48f-f480-439f-a68e-09776a811f6b%2FIMG_1197.jpg?table=block&id=2ec45cbe-434e-4ed3-8089-d2d02bbb04c3&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+14</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F29683d5b-f235-47d1-a267-2c293c779d80%2FIMG_1198.jpg?table=block&id=5fe1327b-dd13-4ad9-a810-3e06bba61c8e&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=1590&userId=&cache=v2'">
+15</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2Fac116d97-e597-4626-8740-150a663ca307%2FIMG_1199.jpg?table=block&id=bd191184-911e-40b1-b9b1-6d36cb60b824&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+16</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F6b013d27-7cf5-45eb-aca5-93f22c52488b%2FIMG_1200.jpg?table=block&id=02a60984-9b44-484f-a6fb-85f385aaba05&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=1780&userId=&cache=v2'">
+17</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F043ceaf0-6208-4e67-bfb0-43d440d43b57%2FIMG_1201.jpg?table=block&id=df85089e-d42c-4763-ba64-0c96caee81df&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+18</button>
+
+<button
+onclick="document.getElementById('myImage').src='https://wax-writer-0c1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fee133b7d-0847-43b1-bc87-137d448b87d1%2F33d368dd-8a0c-4d71-ac8b-bc8a64c76902%2FIMG_1202.jpg?table=block&id=59a29c77-8050-42a6-a0a7-40776c7910e5&spaceId=ee133b7d-0847-43b1-bc87-137d448b87d1&width=2000&userId=&cache=v2'">
+19</button>
+
+
+
+
+<center>
+<p>
+
+Submitted by: Aiyanna Suffren/ Hanna Yamada/ Jeongmin Lee</button>
+          
